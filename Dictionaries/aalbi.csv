@@ -1,0 +1,51 @@
+﻿Location,Replacement,Display
+precentral,precentral,precentral gyrus
+superior frontal,frontal_sup,superior frontal gyrus
+middle frontal,frontal_mid,middle frontal gyrus
+opercular,frontal_inf_oper,"inferior frontal gyrus, opercular part"
+triangular,frontal_inf_tri,"inferior frontal gyrus, triangular part"
+pars orbitalis,frontal_inf_orb,"inferior frontal gyrus, pars orbitalis"
+rolandic,rolandic_oper,rolandic operculum
+supplementary motor,supp_motor_area,supplementary motor area
+olfactory,olfactory,olfactory cortex
+"superior frontal gyrus, medial",frontal_sup_medial,"superior frontal gyrus, medial"
+"superior frontal gyrus, medial orbital",frontal_med_orb,"superior frontal gyrus, medial orbital"
+rectus,rectus,gyrus rectus
+medial orbital,ofcmed,medial orbital gyrus
+anterior orbital,ofcant,anterior orbital gyrus
+posterior orbital,ofcpost,posterior orbital gyrus
+lateral orbital,ofclat,lateral orbital gyrus
+insula,insula,insular cortex
+anterior cingulate,cingulate_ant,anterior cingulate
+middle cingulate,cingulate_mid,middle cingulate
+posterior cingulate,cingulate_post,posterior cingulate
+hippocampus,hippocampus,hippocampus
+parahippocampal,parahippocampal,parahippocampal
+amygdala,amygdala,amygdala
+calcarine,calcarine,calcarine
+cuneus,cuneus,cuneus
+lingual,lingual,lingual
+superior occipital,occipital_sup,superior occipital gyrus
+middle occipital,occipital_mid,middle occipital gyrus
+inferior occipital,occipital_inf,inferior occipital gyrus
+fusiform,fusiform,fusiform gyrus
+postcentral,postcentral,postcentral gyrus
+superior parietal,parietal_sup,superior parietal lobule
+inferior parietal,parietal_inf,inferior parietal lobule
+supramarginal,supramarginal,supramarginal gyrus
+ angular ,angular,angular gyrus
+precuneus,precuneus,precuneus
+paracentral,paracentral_lobule,paracentral lobule
+caudate,caudate,caudate nucleus
+putamen,putamen,putamen
+pallidum,pallidum,pallidum
+thalamus,thalamus,thalamus
+heschl,heschl,heschl's gyrus
+superior temporal,temporal_sup,superior temporal gyrus
+temporal pole,temporal_pole_sup,temporal pole: superior temporal gyrus
+middle temporal,temporal_mid,middle temporal gyrus
+temporal pole,temporal_pole_mid,temporal pole: middle temporal gyrus
+inferior temporal,temporal_inf,inferior temporal gyrus
+crus,cerebellum_crus,crus
+cerebellum,cerebellum_aal,cerebellum
+vermis,vermis,vermis

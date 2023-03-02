@@ -118,7 +118,7 @@ concord<-function (data,n,s=0){
 ```
 
 ```{r}
-excel <- read_excel("/Users/manojarachige/Library/CloudStorage/Dropbox/Mac/Documents/Coding/Projects/BMedScDOC2021/BMedScDOC_2023/Book1.xlsx")
+excel <- read_excel("/Users/manojarachige/Library/CloudStorage/Dropbox/Mac/Documents/Coding/Projects/BMedScDOC2021/BMedScDOC_2023/Book3.xlsx")
 ```
 
 ```{r}
